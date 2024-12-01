@@ -1,3 +1,4 @@
+#ifndef ENCRYPTION_RSA_H
 #define ENCRYPTION_RSA_H
 
 #include <gmp.h>
